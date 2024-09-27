@@ -13,7 +13,7 @@ console.log(third);
 
 
 const doubleIt = num => num * 2;
-const double = doubleIt(3);
+const double = doubleIt([3]);
 console.log(double);
 
 //no parameter;
